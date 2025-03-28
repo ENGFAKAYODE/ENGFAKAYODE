@@ -1,7 +1,3 @@
-# Emmanuel Fakayode
-
-![Banner](https://github.com/EmmanuelFakayode/EmmanuelFakayode/blob/main/banner.png)
-
 ## 🙋‍♂ Introducing myself
 
 🌟 Data Analyst | Business Intelligence Developer
