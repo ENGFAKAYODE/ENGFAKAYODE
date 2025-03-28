@@ -9,23 +9,22 @@ I am detail-oriented, analytical, and highly collaborative, ensuring data-driven
 Welcome to my portfolio, where I showcase my projects, achievements, and passion for data analytics!
 
 ___
-## ⚡ Core Competencies
+## ⚡ Core Competencies  
 
-🔹 **Data Analysis:** Analyze complex datasets to extract valuable insights.
+- **Data Analysis:** Analyze complex datasets (within any industry) to identify trends and patterns.  
+- **Machine Learning:** Apply machine learning techniques using Python and relevant libraries.  
+- **Data Visualization:** Create insightful visualizations using Tableau and Power BI.  
+- **SQL & Database Management:** Query and manage data across various database systems with SQL.  
 
-🔹 **Business Intelligence:** Build interactive dashboards in Tableau and Power BI.
-
-🔹 **SQL & Database Management:** Query and manage data effectively.
-
-🔹 **Machine Learning:** Apply Python-based analytics and modeling techniques.
-
-🔹 **Data Visualization:** Create compelling visual stories using Tableau, Power BI, Excel, Matplotlib, Seaborn and Plotly.
+---
 
 ## 🌍 Connect with Me  
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:youremail@example.com)  
+<p align="center">
+  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" alt="GitHub"></a>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" alt="Email"></a>
+</p>
 
 ---
 
