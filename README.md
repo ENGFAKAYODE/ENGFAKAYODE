@@ -17,24 +17,29 @@ ___
 - **SQL & Database Management:** Query and manage data across various database systems with SQL.  
 
 ___
-## 🚀 Projects
+## ⭐ Tableau Visualisations
 
-Here are some of my notable projects:
+<p align="center">
+  <img src="https://public.tableau.com/static/images/UK/UKGovernmentSpendingOutcomes/UKGovernmentSpendingOutcomes/4_3.png" width="250">
+  <img src="https://public.tableau.com/static/images/Ca/CallCentreDashboard_17308418980580/Callcentre/4_3.png" width="250">
+  <img src="https://public.tableau.com/static/images/HE/HEALTHTRACKERTUG/HealthTracker/4_3.png" width="250">
+</p>
 
-### 1. Data Analysis on Food Hubs
-![Food Hubs](https://github.com/ENGFAKAYODE/FoodHub-Data-Analysis/blob/main/food%20agg.jpg)
+<p align="center">
+  <img src="https://public.tableau.com/static/images/Co/ConsultantPerformanceDashboardTUG/ConsultantPerformanceDashboard2/4_3.png" width="250">
+  <img src="https://public.tableau.com/static/images/Dy/DynamicDatesinaHeatmap_16680849869780/Dashboard1/4_3.png" width="250">
+  <img src="https://public.tableau.com/static/images/Su/SuperstoreSalesPerformance_16934949347900/Dashboard1/4_3.png" width="250">
+</p>
 
-This project focuses on analyzing data related to food hubs. By examining various datasets, I was able to identify key trends and insights regarding food distribution, supply chain management, and optimization. The analysis helped identify areas for improvement and informed strategic decision-making in the food industry.
+<p align="center">
+    <img src="https://public.tableau.com/static/images/MO/MOM2021W19AverageCostof1GBofmobiledataineverycountry/Dashboard1/4_3.png" width="250">
+    <img src="https://public.tableau.com/static/images/WO/WOW2022W28CanyoubuildaButterflychart_16939147641360/Dashboard12/4_3.png" width="250">
+    <img src="https://public.tableau.com/static/images/Su/SuperstoreSub-CategorySalesAnalysis_17194517538180/SUPERSTORESUB-CATEGORYSALESANALYSIS/4_3.png" width="250">
+</p>
 
-### 2. Child and Infant Mortality Rates in Africa
-![Mortality Rates](https://github.com/ENGFAKAYODE/Causes-of-child-and-infant-mortality-rates-in-Africa/blob/main/afr.jpg)
-
-In this project, I explored the child and infant mortality rates in Africa. By analyzing demographic data and healthcare indicators, I uncovered patterns and factors contributing to high mortality rates. The findings provided insights for targeting interventions and developing policies to reduce child and infant mortality in the region.
-
-### 3. Global YouTube Statistics Analysis
-![YouTube Statistics](https://github.com/ENGFAKAYODE/Global-YouTube-Statistics-2023-EDA/blob/main/you.jpg)
-
-This project involves analyzing global YouTube statistics to understand video trends and user engagement. Through data manipulation and visualization techniques, I visualized key metrics such as views, likes, and comments. The analysis helped content creators and marketers gain insights into optimizing their YouTube strategies.
+<p align="center">
+    <img src="https://public.tableau.com/static/images/Pr/PremierLeagueTable2019-2020Season/Dashboard1/4_3.png" width="250">
+</p>
 
 ## 👤 About Me
 
