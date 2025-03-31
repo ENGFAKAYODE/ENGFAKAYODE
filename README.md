@@ -17,58 +17,87 @@ ___
 - **Business Intelligence:** Develop data-driven strategies and build dashboards for business decisions.  
 - **SQL & Database Management:** Query and manage data across various database systems with SQL.  
 
-___  
+---
 
-## ⭐ Tableau Visualizations  
+## 🎨 VIZZES
+
+### ⭐ Tableau Visualizations  
 
 <p align="center">
-  <img src="https://public.tableau.com/static/images/UK/UKGovernmentSpendingOutcomes/UKGovernmentSpendingOutcomes/4_3.png" width="250">
-  <img src="https://public.tableau.com/static/images/Ca/CallCentreDashboard_17308418980580/Callcentre/4_3.png" width="250">
-  <img src="https://public.tableau.com/static/images/HE/HEALTHTRACKERTUG/HealthTracker/4_3.png" width="250">
+  <a href="https://public.tableau.com/app/profile/fakayode.emmanuel/viz/UKGovernmentSpendingOutcomes/UKGovernmentSpendingOutcomes">
+    <img src="https://public.tableau.com/static/images/UK/UKGovernmentSpendingOutcomes/UKGovernmentSpendingOutcomes/4_3.png" width="250">
+  </a>
+  <a href="https://public.tableau.com/views/CallCentreDashboard_17308418980580/Callcentre">
+    <img src="https://public.tableau.com/static/images/Ca/CallCentreDashboard_17308418980580/Callcentre/4_3.png" width="250">
+  </a>
+  <a href="https://public.tableau.com/views/HEALTHTRACKERTUG/HealthTracker">
+    <img src="https://public.tableau.com/static/images/HE/HEALTHTRACKERTUG/HealthTracker/4_3.png" width="250">
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://public.tableau.com/static/images/Co/ConsultantPerformanceDashboardTUG/ConsultantPerformanceDashboard2/4_3.png" width="250">
-  <img src="https://public.tableau.com/static/images/Dy/DynamicDatesinaHeatmap_16680849869780/Dashboard1/4_3.png" width="250">
-  <img src="https://public.tableau.com/static/images/Su/SuperstoreSalesPerformance_16934949347900/Dashboard1/4_3.png" width="250">
+  <a href="https://public.tableau.com/views/ConsultantPerformanceDashboardTUG/ConsultantPerformanceDashboard2">
+    <img src="https://public.tableau.com/static/images/Co/ConsultantPerformanceDashboardTUG/ConsultantPerformanceDashboard2/4_3.png" width="250">
+  </a>
+  <a href="https://public.tableau.com/views/DynamicDatesinaHeatmap_16680849869780/Dashboard1">
+    <img src="https://public.tableau.com/static/images/Dy/DynamicDatesinaHeatmap_16680849869780/Dashboard1/4_3.png" width="250">
+  </a>
+  <a href="https://public.tableau.com/views/SuperstoreSalesPerformance_16934949347900/Dashboard1">
+    <img src="https://public.tableau.com/static/images/Su/SuperstoreSalesPerformance_16934949347900/Dashboard1/4_3.png" width="250">
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://public.tableau.com/static/images/MO/MOM2021W19AverageCostof1GBofmobiledataineverycountry/Dashboard1/4_3.png" width="250">
-  <img src="https://public.tableau.com/static/images/WO/WOW2022W28CanyoubuildaButterflychart_16939147641360/Dashboard12/4_3.png" width="250">
-  <img src="https://public.tableau.com/static/images/Su/SuperstoreSub-CategorySalesAnalysis_17194517538180/SUPERSTORESUB-CATEGORYSALESANALYSIS/4_3.png" width="250">
+  <a href="https://public.tableau.com/app/profile/fakayode.emmanuel/viz/MOM2021W19AverageCostof1GBofmobiledataineverycountry/Dashboard1">
+    <img src="https://public.tableau.com/static/images/MO/MOM2021W19AverageCostof1GBofmobiledataineverycountry/Dashboard1/4_3.png" width="250">
+  </a>
+  <a href="https://public.tableau.com/app/profile/fakayode.emmanuel/viz/WOW2022W28CanyoubuildaButterflychart_16939147641360/Dashboard12">
+    <img src="https://public.tableau.com/static/images/WO/WOW2022W28CanyoubuildaButterflychart_16939147641360/Dashboard12/4_3.png" width="250">
+  </a>
+  <a href="https://public.tableau.com/app/profile/fakayode.emmanuel/viz/SuperstoreSub-CategorySalesAnalysis_17194517538180/SUPERSTORESUB-CATEGORYSALESANALYSIS">
+    <img src="https://public.tableau.com/static/images/Su/SuperstoreSub-CategorySalesAnalysis_17194517538180/SUPERSTORESUB-CATEGORYSALESANALYSIS/4_3.png" width="250">
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://public.tableau.com/static/images/Pr/PremierLeagueTable2019-2020Season/Dashboard1/4_3.png" width="250">
-</p>  
+  <a href="https://public.tableau.com/app/profile/fakayode.emmanuel/viz/PremierLeagueTable2019-2020Season/Dashboard1">
+    <img src="https://public.tableau.com/static/images/Pr/PremierLeagueTable2019-2020Season/Dashboard1/4_3.png" width="250">
+  </a>
+</p>
 
-___  
-
-## ⭐ Power BI Visualizations  
+### ⭐ Power BI Visualizations  
 
 <p align="center">
-  <img src="https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Ff2fa1cdd9340fae53fcb49f577292458.cdn.bubble.io%2Ff1735248027489x437740612036214850%2FScreenshot%25202024-12-26%2520151747.png?w=512&h=&auto=true&dpr=1.5&fit=crop" width="250">
-  <img src="https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Ff2fa1cdd9340fae53fcb49f577292458.cdn.bubble.io%2Ff1735247978173x733704864252072100%2FScreenshot%25202024-12-26%2520151813.png?w=512&h=&auto=true&dpr=1.5&fit=crop" width="250">
-  <img src="https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Ff2fa1cdd9340fae53fcb49f577292458.cdn.bubble.io%2Ff1735915249730x466575753188482400%2FScreenshot%25202025-01-03%2520084008.png?w=512&h=&auto=true&dpr=1.5&fit=crop" width="250">
+  <a href="https://project.novypro.com/UQ5UxJ">
+    <img src="https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Ff2fa1cdd9340fae53fcb49f577292458.cdn.bubble.io%2Ff1735248027489x437740612036214850%2FScreenshot%25202024-12-26%2520151747.png?w=512&h=&auto=true&dpr=1.5&fit=crop" width="250">
+  </a>
+  <a href="https://project.novypro.com/2RrZ1H">
+    <img src="https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Ff2fa1cdd9340fae53fcb49f577292458.cdn.bubble.io%2Ff1735915249730x466575753188482400%2FScreenshot%25202025-01-03%2520084008.png?w=512&h=&auto=true&dpr=1.5&fit=crop" width="250">
+  </a>
+  <a href="https://project.novypro.com/D3nLs8">
+    <img src="https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Ff2fa1cdd9340fae53fcb49f577292458.cdn.bubble.io%2Ff1735247978173x733704864252072100%2FScreenshot%25202024-12-26%2520151813.png?w=512&h=&auto=true&dpr=1.5&fit=crop" width="250">
+  </a>
+
 </p>
 
 <p align="center">
-  <img src="https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Ff2fa1cdd9340fae53fcb49f577292458.cdn.bubble.io%2Ff1735914900151x632765462712616400%2FScreenshot%25202025-01-03%2520082637.png?w=512&h=&auto=true&dpr=1.5&fit=crop" width="250">
+  <a href="https://project.novypro.com/1ZYEgP">
+    <img src="https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Ff2fa1cdd9340fae53fcb49f577292458.cdn.bubble.io%2Ff1735914900151x632765462712616400%2FScreenshot%25202025-01-03%2520082637.png?w=512&h=&auto=true&dpr=1.5&fit=crop" width="250">
+  </a>
 </p>
 
-___  
-
-## ⭐ Excel Visualizations  
+### ⭐ Excel Visualizations  
 
 <p align="center">
-  <img src="https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Ff2fa1cdd9340fae53fcb49f577292458.cdn.bubble.io%2Ff1735248027489x437740612036214850%2FScreenshot%25202024-12-26%2520151747.png?w=512&h=&auto=true&dpr=1.5&fit=crop" width="250">
-  <img src="https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Ff2fa1cdd9340fae53fcb49f577292458.cdn.bubble.io%2Ff1735247978173x733704864252072100%2FScreenshot%25202024-12-26%2520151813.png?w=512&h=&auto=true&dpr=1.5&fit=crop" width="250">
-  <img src="https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Ff2fa1cdd9340fae53fcb49f577292458.cdn.bubble.io%2Ff1735915249730x466575753188482400%2FScreenshot%25202025-01-03%2520084008.png?w=512&h=&auto=true&dpr=1.5&fit=crop" width="250">
-</p>
-
-<p align="center">
-  <img src="https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Ff2fa1cdd9340fae53fcb49f577292458.cdn.bubble.io%2Ff1735914900151x632765462712616400%2FScreenshot%25202025-01-03%2520082637.png?w=512&h=&auto=true&dpr=1.5&fit=crop" width="250">
+  <a href="https://project.novypro.com/rxlqaa">
+    <img src="https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Ff2fa1cdd9340fae53fcb49f577292458.cdn.bubble.io%2Ff1735248877271x574608658429860700%2FScreenshot%25202024-11-28%2520103050.png?w=512&h=&auto=true&dpr=1.5&fit=crop" width="250">
+  </a>
+  <a href="https://project.novypro.com/gXPjqF">
+    <img src="https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Ff2fa1cdd9340fae53fcb49f577292458.cdn.bubble.io%2Ff1743442647555x317874604386467760%2FScreenshot%25202025-03-31%2520122445.png?w=512&h=&auto=true&dpr=1.5&fit=crop" width="250">
+  </a>
+  <a href="https://project.novypro.com/uNpJEZ">
+    <img src="https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Ff2fa1cdd9340fae53fcb49f577292458.cdn.bubble.io%2Ff1743443087080x605659965032484100%2FMcDonald%2527s%2520Dashboard.jpg?w=512&h=&auto=true&dpr=1.5&fit=crop" width="250">
+  </a>
 </p>
 
 ___  
