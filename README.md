@@ -45,6 +45,34 @@ ___
 
 ___  
 
+## ⭐ Power BI Visualizations  
+
+<p align="center">
+  <img src="https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Ff2fa1cdd9340fae53fcb49f577292458.cdn.bubble.io%2Ff1735248027489x437740612036214850%2FScreenshot%25202024-12-26%2520151747.png?w=512&h=&auto=true&dpr=1.5&fit=crop" width="250">
+  <img src="https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Ff2fa1cdd9340fae53fcb49f577292458.cdn.bubble.io%2Ff1735247978173x733704864252072100%2FScreenshot%25202024-12-26%2520151813.png?w=512&h=&auto=true&dpr=1.5&fit=crop" width="250">
+  <img src="https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Ff2fa1cdd9340fae53fcb49f577292458.cdn.bubble.io%2Ff1735915249730x466575753188482400%2FScreenshot%25202025-01-03%2520084008.png?w=512&h=&auto=true&dpr=1.5&fit=crop" width="250">
+</p>
+
+<p align="center">
+  <img src="https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Ff2fa1cdd9340fae53fcb49f577292458.cdn.bubble.io%2Ff1735914900151x632765462712616400%2FScreenshot%25202025-01-03%2520082637.png?w=512&h=&auto=true&dpr=1.5&fit=crop" width="250">
+</p>
+
+___  
+
+## ⭐ Excel Visualizations  
+
+<p align="center">
+  <img src="https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Ff2fa1cdd9340fae53fcb49f577292458.cdn.bubble.io%2Ff1735248027489x437740612036214850%2FScreenshot%25202024-12-26%2520151747.png?w=512&h=&auto=true&dpr=1.5&fit=crop" width="250">
+  <img src="https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Ff2fa1cdd9340fae53fcb49f577292458.cdn.bubble.io%2Ff1735247978173x733704864252072100%2FScreenshot%25202024-12-26%2520151813.png?w=512&h=&auto=true&dpr=1.5&fit=crop" width="250">
+  <img src="https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Ff2fa1cdd9340fae53fcb49f577292458.cdn.bubble.io%2Ff1735915249730x466575753188482400%2FScreenshot%25202025-01-03%2520084008.png?w=512&h=&auto=true&dpr=1.5&fit=crop" width="250">
+</p>
+
+<p align="center">
+  <img src="https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Ff2fa1cdd9340fae53fcb49f577292458.cdn.bubble.io%2Ff1735914900151x632765462712616400%2FScreenshot%25202025-01-03%2520082637.png?w=512&h=&auto=true&dpr=1.5&fit=crop" width="250">
+</p>
+
+___  
+
 ## 👤 About Me  
 
 I am dedicated to continuous learning and actively participate in the data analysis community. I publish articles on my blog, sharing insights, tips, and tutorials on data analysis and visualization. Feel free to explore my blog and reach out to me for any collaborations or data-related projects.  
