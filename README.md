@@ -24,22 +24,34 @@ ___
 ### ⭐ Tableau Visualizations  
 
 <p align="center">
+    <a href="https://public.tableau.com/app/profile/fakayode.emmanuel/viz/SalesDashboard_17467000128740/Amplify">
+    <img src="https://public.tableau.com/static/images/Sa/SalesDashboard_17467000128740/Amplify/4_3.png" width="250">
+  </a>
+      <a href="https://public.tableau.com/app/profile/fakayode.emmanuel/viz/Happinessaroundtheworld_17449315697580/Happinessaroundtheworld">
+    <img src="https://public.tableau.com/static/images/Ha/Happinessaroundtheworld_17449315697580/Happinessaroundtheworld/4_3.png" width="250">
+  </a>
   <a href="https://public.tableau.com/app/profile/fakayode.emmanuel/viz/UKGovernmentSpendingOutcomes/UKGovernmentSpendingOutcomes">
     <img src="https://public.tableau.com/static/images/UK/UKGovernmentSpendingOutcomes/UKGovernmentSpendingOutcomes/4_3.png" width="250">
   </a>
+</p>
+
+<p align="center">
   <a href="https://public.tableau.com/views/CallCentreDashboard_17308418980580/Callcentre">
     <img src="https://public.tableau.com/static/images/Ca/CallCentreDashboard_17308418980580/Callcentre/4_3.png" width="250">
   </a>
   <a href="https://public.tableau.com/views/HEALTHTRACKERTUG/HealthTracker">
     <img src="https://public.tableau.com/static/images/HE/HEALTHTRACKERTUG/HealthTracker/4_3.png" width="250">
   </a>
-</p>
-
-<p align="center">
   <a href="https://public.tableau.com/views/ConsultantPerformanceDashboardTUG/ConsultantPerformanceDashboard2">
     <img src="https://public.tableau.com/static/images/Co/ConsultantPerformanceDashboardTUG/ConsultantPerformanceDashboard2/4_3.png" width="250">
   </a>
-  <a href="https://public.tableau.com/views/DynamicDatesinaHeatmap_16680849869780/Dashboard1">
+</p>
+
+<p align="center">
+  <a href="https://public.tableau.com/app/profile/fakayode.emmanuel/viz/MOM2021W19AverageCostof1GBofmobiledataineverycountry/Dashboard1">
+    <img src="https://public.tableau.com/static/images/MO/MOM2021W19AverageCostof1GBofmobiledataineverycountry/Dashboard1/4_3.png" width="250">
+  </a>
+    <a href="https://public.tableau.com/views/DynamicDatesinaHeatmap_16680849869780/Dashboard1">
     <img src="https://public.tableau.com/static/images/Dy/DynamicDatesinaHeatmap_16680849869780/Dashboard1/4_3.png" width="250">
   </a>
   <a href="https://public.tableau.com/views/SuperstoreSalesPerformance_16934949347900/Dashboard1">
@@ -48,20 +60,8 @@ ___
 </p>
 
 <p align="center">
-  <a href="https://public.tableau.com/app/profile/fakayode.emmanuel/viz/MOM2021W19AverageCostof1GBofmobiledataineverycountry/Dashboard1">
-    <img src="https://public.tableau.com/static/images/MO/MOM2021W19AverageCostof1GBofmobiledataineverycountry/Dashboard1/4_3.png" width="250">
-  </a>
-  <a href="https://public.tableau.com/app/profile/fakayode.emmanuel/viz/WOW2022W28CanyoubuildaButterflychart_16939147641360/Dashboard12">
-    <img src="https://public.tableau.com/static/images/WO/WOW2022W28CanyoubuildaButterflychart_16939147641360/Dashboard12/4_3.png" width="250">
-  </a>
   <a href="https://public.tableau.com/app/profile/fakayode.emmanuel/viz/SuperstoreSub-CategorySalesAnalysis_17194517538180/SUPERSTORESUB-CATEGORYSALESANALYSIS">
     <img src="https://public.tableau.com/static/images/Su/SuperstoreSub-CategorySalesAnalysis_17194517538180/SUPERSTORESUB-CATEGORYSALESANALYSIS/4_3.png" width="250">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://public.tableau.com/app/profile/fakayode.emmanuel/viz/PremierLeagueTable2019-2020Season/Dashboard1">
-    <img src="https://public.tableau.com/static/images/Pr/PremierLeagueTable2019-2020Season/Dashboard1/4_3.png" width="250">
   </a>
 </p>
 
