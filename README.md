@@ -51,11 +51,11 @@ ___
   <a href="https://public.tableau.com/app/profile/fakayode.emmanuel/viz/MOM2021W19AverageCostof1GBofmobiledataineverycountry/Dashboard1">
     <img src="https://public.tableau.com/static/images/MO/MOM2021W19AverageCostof1GBofmobiledataineverycountry/Dashboard1/4_3.png" width="250">
   </a>
+    <a href="https://public.tableau.com/views/SuperstoreSalesPerformance_16934949347900/Dashboard1">
+    <img src="https://public.tableau.com/static/images/Su/SuperstoreSalesPerformance_16934949347900/Dashboard1/4_3.png" width="250">
+  </a>
     <a href="https://public.tableau.com/views/DynamicDatesinaHeatmap_16680849869780/Dashboard1">
     <img src="https://public.tableau.com/static/images/Dy/DynamicDatesinaHeatmap_16680849869780/Dashboard1/4_3.png" width="250">
-  </a>
-  <a href="https://public.tableau.com/views/SuperstoreSalesPerformance_16934949347900/Dashboard1">
-    <img src="https://public.tableau.com/static/images/Su/SuperstoreSalesPerformance_16934949347900/Dashboard1/4_3.png" width="250">
   </a>
 </p>
 
