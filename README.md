@@ -2,7 +2,7 @@
 
 🌟 **Data Analyst | Business Intelligence Developer**  
 
-Hello! I'm Emmanuel, a passionate Data Analyst and Business Intelligence Developer. I specialize in leveraging [Tableau](https://public.tableau.com/app/profile/fakayode.emmanuel/vizzes), [Power BI](https://my.novypro.com/emmanuel-fakayode), SQL, Python, and Excel to drive decision-making, optimize processes, increase revenue, and reduce costs. My expertise lies in creating dynamic dashboards and insightful analytics that improve business efficiency.  
+Hello! I'm Emmanuel, a passionate Data Analyst and Business Intelligence Developer. I specialize in leveraging [Tableau](https://public.tableau.com/app/profile/fakayode.emmanuel/vizzes), [Power BI](https://my.novypro.com/emmanuel-fakayode), SQL, Python and Excel to drive decision-making, optimize processes, increase revenue and reduce costs. My expertise lies in creating dynamic dashboards and insightful analytics that improve business efficiency.  
 
 I am detail-oriented, analytical, and highly collaborative, ensuring data-driven insights translate into actionable solutions. My experience spans industries such as consulting, education, and retail, where I have successfully developed impactful analytics solutions.  
 
