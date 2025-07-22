@@ -77,7 +77,6 @@ ___
   <a href="https://project.novypro.com/D3nLs8">
     <img src="https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Ff2fa1cdd9340fae53fcb49f577292458.cdn.bubble.io%2Ff1735247978173x733704864252072100%2FScreenshot%25202024-12-26%2520151813.png?w=512&h=&auto=true&dpr=1.5&fit=crop" width="250">
   </a>
-
 </p>
 
 <p align="center">
@@ -100,7 +99,26 @@ ___
   </a>
 </p>
 
-___  
+---
+
+## 🎓 Certifications  
+
+<p align="center">
+  <img src="https://images.credly.com/size/340x340/images/0c253b3d-ff8f-4ed0-832e-de2efeed4b74/image.png" width="80">
+  <img src="https://images.credly.com/size/340x340/images/d919a94a-7a5b-46b9-b252-fdbf2c3fcd1f/image.png" width="80">
+  <img src="https://images.credly.com/size/340x340/images/d9692dd0-e42a-4d06-babf-3e778469c547/image.png" width="80">
+  <img src="https://images.credly.com/size/340x340/images/d13efad5-e3f1-49b2-b4d0-c8b4d7a4ebdd/image.png" width="80">
+  <img src="https://hrcdn.net/fcore/assets/certificates/hackerrank_certificate_logo-44b6c34ff2.svg" width="80">
+</p>
+
+- 🎓 [**Deloitte Australia – Data Analytics Job Simulation**](https://shorturl.at/11dHh)  
+- 📊 [**Tableau Certified Data Analyst**](https://www.credly.com/badges/0c253b3d-ff8f-4ed0-832e-de2efeed4b74/linked_in_profile)  
+- 📈 [**Tableau Desktop Specialist**](https://www.credly.com/badges/d9692dd0-e42a-4d06-babf-3e778469c547/linked_in_profile)  
+- 📘 [**Microsoft Excel Expert**](https://www.credly.com/badges/d919a94a-7a5b-46b9-b252-fdbf2c3fcd1f/linked_in_profile)  
+- 📄 [**Microsoft Excel Associate**](https://www.credly.com/badges/d13efad5-e3f1-49b2-b4d0-c8b4d7a4ebdd/linked_in_profile)  
+- 🧠 [**SQL Certificate – HackerRank**](https://www.hackerrank.com/certificates/a9010084f1c6?utm_medium=email&utm_source=mail_template_1393&utm_campaign=hrc_skills_certificate)  
+
+---
 
 ## 👤 About Me  
 
