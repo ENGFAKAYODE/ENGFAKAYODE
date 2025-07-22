@@ -104,14 +104,29 @@ ___
 ## 🎓 Certifications  
 
 <p align="center">
-  <img src="https://github.com/ENGFAKAYODE/ENGFAKAYODE/blob/main/Tableau%20Certified%20Data%20Analyst.png" width="400">
-  <img src="https://github.com/ENGFAKAYODE/ENGFAKAYODE/blob/main/Tableau%20Certified%20Data%20Specialist.png" width="400">
-  <img src="https://github.com/ENGFAKAYODE/ENGFAKAYODE/blob/main/MO%20201.png" width="400">
-  <img src="https://github.com/ENGFAKAYODE/ENGFAKAYODE/blob/main/MO%20200.png" width="400">
-  <img src="https://github.com/ENGFAKAYODE/ENGFAKAYODE/blob/main/Screenshot%202025-03-02%20140615.png" width="400">
-  <img src="https://github.com/ENGFAKAYODE/ENGFAKAYODE/blob/main/SQL%20(Intermediate).png" width="400">
-  <img src="https://github.com/ENGFAKAYODE/ENGFAKAYODE/blob/main/Cisco%20-%20Data%20Science.png" width="400">
+  <a href="https://www.credly.com/badges/0c253b3d-ff8f-4ed0-832e-de2efeed4b74/linked_in_profile">
+    <img src="https://github.com/ENGFAKAYODE/ENGFAKAYODE/blob/main/Tableau%20Certified%20Data%20Analyst.png" width="400">
+  </a>
+  <a href="https://www.credly.com/badges/d9692dd0-e42a-4d06-babf-3e778469c547/linked_in_profile">
+    <img src="https://github.com/ENGFAKAYODE/ENGFAKAYODE/blob/main/Tableau%20Certified%20Data%20Specialist.png" width="400">
+  </a>
+  <a href="https://www.credly.com/badges/d919a94a-7a5b-46b9-b252-fdbf2c3fcd1f/linked_in_profile">
+    <img src="https://github.com/ENGFAKAYODE/ENGFAKAYODE/blob/main/MO%20201.png" width="400">
+  </a>
+  <a href="https://www.credly.com/badges/d13efad5-e3f1-49b2-b4d0-c8b4d7a4ebdd/linked_in_profile">
+    <img src="https://github.com/ENGFAKAYODE/ENGFAKAYODE/blob/main/MO%20200.png" width="400">
+  </a>
+  <a href="https://shorturl.at/11dHh">
+    <img src="https://github.com/ENGFAKAYODE/ENGFAKAYODE/blob/main/Screenshot%202025-03-02%20140615.png" width="400">
+  </a>
+  <a href="https://www.hackerrank.com/certificates/a9010084f1c6">
+    <img src="https://github.com/ENGFAKAYODE/ENGFAKAYODE/blob/main/SQL%20(Intermediate).png" width="400">
+  </a>
+  <a href="https://www.credly.com/org/cisco/badge/introduction-to-data-science">
+    <img src="https://github.com/ENGFAKAYODE/ENGFAKAYODE/blob/main/Cisco%20-%20Data%20Science.png" width="400">
+  </a>
 </p>
+
 
 - [**Tableau Certified Data Analyst**](https://www.credly.com/badges/0c253b3d-ff8f-4ed0-832e-de2efeed4b74/linked_in_profile)  
 - [**Tableau Desktop Specialist**](https://www.credly.com/badges/d9692dd0-e42a-4d06-babf-3e778469c547/linked_in_profile)  
