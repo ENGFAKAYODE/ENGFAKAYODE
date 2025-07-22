@@ -104,8 +104,8 @@ ___
 ## 🎓 Certifications  
 
 <p align="center">
-  <img src="https://github.com/ENGFAKAYODE/ENGFAKAYODE/blob/main/Tableau%20Certified%20Data%20Analyst.png" width="500">
-  <img src="https://github.com/ENGFAKAYODE/ENGFAKAYODE/blob/main/Tableau%20Certified%20Data%20Specialist.png" width="500">
+  <img src="https://github.com/ENGFAKAYODE/ENGFAKAYODE/blob/main/Tableau%20Certified%20Data%20Analyst.png" width="400">
+  <img src="https://github.com/ENGFAKAYODE/ENGFAKAYODE/blob/main/Tableau%20Certified%20Data%20Specialist.png" width="400">
   <img src="https://github.com/ENGFAKAYODE/ENGFAKAYODE/blob/main/MO%20201.png" width="80">
   <img src="https://github.com/ENGFAKAYODE/ENGFAKAYODE/blob/main/MO%20200.png" width="80">
   <img src="https://github.com/ENGFAKAYODE/ENGFAKAYODE/blob/main/Screenshot%202025-03-02%20140615.png" width="80">
