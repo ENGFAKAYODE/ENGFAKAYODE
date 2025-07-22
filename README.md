@@ -116,7 +116,7 @@ ___
   <a href="https://www.credly.com/badges/d13efad5-e3f1-49b2-b4d0-c8b4d7a4ebdd/linked_in_profile">
     <img src="https://github.com/ENGFAKAYODE/ENGFAKAYODE/blob/main/MO%20200.png" width="400">
   </a>
-  <a href="https://shorturl.at/11dHh">
+  <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_3wGXxArpuCbA8BEuF_1740861745868_completion_certificate.pdf">
     <img src="https://github.com/ENGFAKAYODE/ENGFAKAYODE/blob/main/Screenshot%202025-03-02%20140615.png" width="400">
   </a>
   <a href="https://www.hackerrank.com/certificates/a9010084f1c6">
@@ -132,7 +132,7 @@ ___
 - [**Tableau Desktop Specialist**](https://www.credly.com/badges/d9692dd0-e42a-4d06-babf-3e778469c547/linked_in_profile)  
 - [**Microsoft Excel Expert**](https://www.credly.com/badges/d919a94a-7a5b-46b9-b252-fdbf2c3fcd1f/linked_in_profile)  
 - [**Microsoft Excel Associate**](https://www.credly.com/badges/d13efad5-e3f1-49b2-b4d0-c8b4d7a4ebdd/linked_in_profile)  
-- [**Deloitte Australia – Data Analytics Job Simulation**](https://shorturl.at/11dHh)  
+- [**Deloitte Australia Internship**](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_3wGXxArpuCbA8BEuF_1740861745868_completion_certificate.pdf)  
 - [**SQL Certificate – HackerRank**](https://www.hackerrank.com/certificates/a9010084f1c6?utm_medium=email&utm_source=mail_template_1393&utm_campaign=hrc_skills_certificate)  
 
 ---
