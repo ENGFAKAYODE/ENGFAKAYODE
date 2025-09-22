@@ -33,6 +33,9 @@ ___
     <a href="https://public.tableau.com/app/profile/fakayode.emmanuel/viz/SalesDashboard_17467000128740/Amplify">
     <img src="https://public.tableau.com/static/images/Sa/SalesDashboard_17467000128740/Amplify/4_3.png" width="250">
   </a>
+</p>
+
+<p align="center">
       <a href="https://public.tableau.com/app/profile/fakayode.emmanuel/viz/TopPaidSP500CEOS1_17501847928190/TopPaidSP500CEOS">
     <img src="https://public.tableau.com/static/images/To/TopPaidSP500CEOS1_17501847928190/TopPaidSP500CEOS/4_3.png" width="250">
   </a>
@@ -42,37 +45,37 @@ ___
       <a href="https://public.tableau.com/app/profile/fakayode.emmanuel/viz/Happinessaroundtheworld_17449315697580/Happinessaroundtheworld">
     <img src="https://public.tableau.com/static/images/Ha/Happinessaroundtheworld_17449315697580/Happinessaroundtheworld/4_3.png" width="250">
   </a>
+</p>
+<p align="center">
     <a href="https://public.tableau.com/app/profile/fakayode.emmanuel/viz/UKGovernmentSpendingOutcomes/UKGovernmentSpendingOutcomes">
     <img src="https://public.tableau.com/static/images/UK/UKGovernmentSpendingOutcomes/UKGovernmentSpendingOutcomes/4_3.png" width="250">
   </a>
 </p>
-
-<p align="center">
-  <a href="https://public.tableau.com/views/CallCentreDashboard_17308418980580/Callcentre">
+   <a href="https://public.tableau.com/views/CallCentreDashboard_17308418980580/Callcentre">
     <img src="https://public.tableau.com/static/images/Ca/CallCentreDashboard_17308418980580/Callcentre/4_3.png" width="250">
   </a>
   <a href="https://public.tableau.com/views/HEALTHTRACKERTUG/HealthTracker">
     <img src="https://public.tableau.com/static/images/HE/HEALTHTRACKERTUG/HealthTracker/4_3.png" width="250">
   </a>
-  <a href="https://public.tableau.com/views/ConsultantPerformanceDashboardTUG/ConsultantPerformanceDashboard2">
-    <img src="https://public.tableau.com/static/images/Co/ConsultantPerformanceDashboardTUG/ConsultantPerformanceDashboard2/4_3.png" width="250">
-  </a>
 </p>
 
 <p align="center">
+  <a href="https://public.tableau.com/views/ConsultantPerformanceDashboardTUG/ConsultantPerformanceDashboard2">
+    <img src="https://public.tableau.com/static/images/Co/ConsultantPerformanceDashboardTUG/ConsultantPerformanceDashboard2/4_3.png" width="250">
+  </a>
   <a href="https://public.tableau.com/app/profile/fakayode.emmanuel/viz/MOM2021W19AverageCostof1GBofmobiledataineverycountry/Dashboard1">
     <img src="https://public.tableau.com/static/images/MO/MOM2021W19AverageCostof1GBofmobiledataineverycountry/Dashboard1/4_3.png" width="250">
   </a>
     <a href="https://public.tableau.com/views/SuperstoreSalesPerformance_16934949347900/Dashboard1">
     <img src="https://public.tableau.com/static/images/Su/SuperstoreSalesPerformance_16934949347900/Dashboard1/4_3.png" width="250">
   </a>
+</p>
+<p align="center">
     <a href="https://public.tableau.com/views/DynamicDatesinaHeatmap_16680849869780/Dashboard1">
     <img src="https://public.tableau.com/static/images/Dy/DynamicDatesinaHeatmap_16680849869780/Dashboard1/4_3.png" width="250">
   </a>
 </p>
-
-<p align="center">
-  <a href="https://public.tableau.com/app/profile/fakayode.emmanuel/viz/SuperstoreSub-CategorySalesAnalysis_17194517538180/SUPERSTORESUB-CATEGORYSALESANALYSIS">
+    <a href="https://public.tableau.com/app/profile/fakayode.emmanuel/viz/SuperstoreSub-CategorySalesAnalysis_17194517538180/SUPERSTORESUB-CATEGORYSALESANALYSIS">
     <img src="https://public.tableau.com/static/images/Su/SuperstoreSub-CategorySalesAnalysis_17194517538180/SUPERSTORESUB-CATEGORYSALESANALYSIS/4_3.png" width="250">
   </a>
 </p>
