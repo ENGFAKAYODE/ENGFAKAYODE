@@ -24,14 +24,23 @@ ___
 ### ⭐ Tableau Visualizations  
 
 <p align="center">
+    <a href="https://public.tableau.com/app/profile/fakayode.emmanuel/viz/PersonalFinanceTracker_17585292846170/PersonalFinanceTracker">
+    <img src="https://public.tableau.com/static/images/Pe/PersonalFinanceTracker_17585292846170/PersonalFinanceTracker/4_3.png" width="250">
+  </a>
+    <a href="https://public.tableau.com/app/profile/fakayode.emmanuel/viz/MusicStreamingChurn/MusicStreamingChurn">
+    <img src="https://public.tableau.com/static/images/Mu/MusicStreamingChurn/MusicStreamingChurn/4_3.png" width="250">
+  </a>
     <a href="https://public.tableau.com/app/profile/fakayode.emmanuel/viz/SalesDashboard_17467000128740/Amplify">
     <img src="https://public.tableau.com/static/images/Sa/SalesDashboard_17467000128740/Amplify/4_3.png" width="250">
   </a>
+      <a href="https://public.tableau.com/app/profile/fakayode.emmanuel/viz/TopPaidSP500CEOS1_17501847928190/TopPaidSP500CEOS">
+    <img src="https://public.tableau.com/static/images/To/TopPaidSP500CEOS1_17501847928190/TopPaidSP500CEOS/4_3.png" width="250">
+  </a>
+    <a href="https://public.tableau.com/app/profile/fakayode.emmanuel/viz/UKGovernmentSpendingOutcomes/UKGovernmentSpendingOutcomes">
+    <img src="https://public.tableau.com/static/images/UK/UKGovernmentSpendingOutcomes/UKGovernmentSpendingOutcomes/4_3.png" width="250">
+  </a>
       <a href="https://public.tableau.com/app/profile/fakayode.emmanuel/viz/Happinessaroundtheworld_17449315697580/Happinessaroundtheworld">
     <img src="https://public.tableau.com/static/images/Ha/Happinessaroundtheworld_17449315697580/Happinessaroundtheworld/4_3.png" width="250">
-  </a>
-  <a href="https://public.tableau.com/app/profile/fakayode.emmanuel/viz/UKGovernmentSpendingOutcomes/UKGovernmentSpendingOutcomes">
-    <img src="https://public.tableau.com/static/images/UK/UKGovernmentSpendingOutcomes/UKGovernmentSpendingOutcomes/4_3.png" width="250">
   </a>
 </p>
 
