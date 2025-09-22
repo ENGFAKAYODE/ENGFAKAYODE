@@ -40,7 +40,7 @@ ___
     <img src="https://public.tableau.com/static/images/To/TopPaidSP500CEOS1_17501847928190/TopPaidSP500CEOS/4_3.png" width="250">
   </a>
   <a href="https://public.tableau.com/app/profile/fakayode.emmanuel/viz/DigitalQualityofLifeIndex2021-2024/DigitalQualityofLifeIndex2021-2024">
-    <img src="https://public.tableau.com/static/images/Pe/PersonalFinanceTracker_17585292846170/PersonalFinanceTracker/4_3.png" width="250">
+    <img src="https://public.tableau.com/static/images/Di/DigitalQualityofLifeIndex2021-2024/DigitalQualityofLifeIndex2021-2024/4_3.png" width="250">
   </a>
   <a href="https://public.tableau.com/app/profile/fakayode.emmanuel/viz/Happinessaroundtheworld_17449315697580/Happinessaroundtheworld">
     <img src="https://public.tableau.com/static/images/Ha/Happinessaroundtheworld_17449315697580/Happinessaroundtheworld/4_3.png" width="250">
